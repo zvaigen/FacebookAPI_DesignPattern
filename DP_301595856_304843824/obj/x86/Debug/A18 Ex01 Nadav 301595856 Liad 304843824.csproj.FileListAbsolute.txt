@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Projects\design patterns\A18 Ex01 NadavZvaig 301595856 LiadGutman 304843824\DP_301595856_304843824\obj\x86\Debug\A18 Ex01 Nadav 301595856 Liad 304843824.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\design patterns\A18 Ex01 NadavZvaig 301595856 LiadGutman 304843824\DP_301595856_304843824\obj\x86\Debug\DP_301595856_304843824.FormMain.resources
+C:\Users\User\Desktop\Projects\design patterns\A18 Ex01 NadavZvaig 301595856 LiadGutman 304843824\DP_301595856_304843824\obj\x86\Debug\DP_301595856_304843824.FormHoroscope.resources
+C:\Users\User\Desktop\Projects\design patterns\A18 Ex01 NadavZvaig 301595856 LiadGutman 304843824\DP_301595856_304843824\obj\x86\Debug\DP_301595856_304843824.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\design patterns\A18 Ex01 NadavZvaig 301595856 LiadGutman 304843824\DP_301595856_304843824\obj\x86\Debug\A18 Ex01 Nadav 301595856 Liad 304843824.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projects\design patterns\A18 Ex01 NadavZvaig 301595856 LiadGutman 304843824\DP_301595856_304843824\obj\x86\Debug\A18 Ex01 Nadav 301595856 Liad 304843824.csproj.CoreCompileInputs.cache
